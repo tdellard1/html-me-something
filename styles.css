@@ -1,5 +1,4 @@
-/*
-img {
+/*img {
     width: 1000px;
     height: 100px;
 }
@@ -12,7 +11,70 @@ html {
     margin-left: 20px;
     margin-right:20px;
 }
-.footer{
+*/
+#Tailer {
+    color: white;
     text-align: center;
 }
-*/
+p {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    color: #fffdd0;
+ }
+header {
+    font-family: Cambria;
+    color: #fffdd0;
+    text-align: center;
+    font-size: 30px;
+}
+html {
+    background-color: black;
+}   
+#Intro{ 
+    border: 5px solid #fffdd0;
+}
+#Trumpet {
+    background-image: url("images/trumpet.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-size:cover;
+    border: 5px solid #fffdd0;
+}
+#Chess{
+    background-image: url("images/chess.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-size:cover;
+    border: 5px solid #fffdd0;
+}
+#Producing{
+    background-image: url("images/musicproducing.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black; 
+    background-size: 1300px 350px;
+    border: 5px solid #fffdd0;
+}
+#Dancing{
+    background-image: url("images/dancing.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    border: 5px solid #fffdd0;
+}
+#VideoGames{
+    background-image: url("images/cod.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: black;
+    background-size: auto 270px;
+    border: 5px solid #fffdd0;
+}
+#Coding{
+    background-image: url("images/coding.png");
+    background-size:cover;
+    border: 5px solid #fffdd0;
+}
