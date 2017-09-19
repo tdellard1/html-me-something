@@ -1,17 +1,3 @@
-/*img {
-    width: 1000px;
-    height: 100px;
-}
-header {
-    background-color: darkslategray;
-    text-align: center;
-
-}
-html {
-    margin-left: 20px;
-    margin-right:20px;
-}
-*/
 #Tailer {
     color: white;
     text-align: center;
@@ -78,3 +64,6 @@ html {
     background-size:cover;
     border: 5px solid #fffdd0;
 }
+.transparent {
+    border: 3px solid #fffdd0;
+} 
